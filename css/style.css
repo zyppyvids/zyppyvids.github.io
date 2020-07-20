@@ -42,6 +42,12 @@ img {
 .blue {
   color: #37a7ff;
 }
+.yellow{
+  color: rgb(173, 173, 65)
+}
+.darkblue{
+  color: rgb(22, 22, 180);
+}
 
 /* Hero Section */
 header.hero {
@@ -57,6 +63,12 @@ header.hero {
 header.hero .hero-text {
   margin-top: 20%;
   margin-bottom: 20%;
+}
+header.hero .hero-image {
+  margin-top: 20%;
+  margin-bottom: 20%;
+
+  border: 6px solid black;
 }
 header.hero .row {
   position: relative;
