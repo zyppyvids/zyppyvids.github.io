@@ -43,10 +43,10 @@ img {
   color: #37a7ff;
 }
 .yellow{
-  color: rgb(173, 173, 65)
+  color: rgb(173, 173, 65) !important;
 }
 .darkblue{
-  color: rgb(22, 22, 180);
+  color: rgb(22, 22, 180) !important;
 }
 
 /* Hero Section */
@@ -65,10 +65,10 @@ header.hero .hero-text {
   margin-bottom: 20%;
 }
 header.hero .hero-image {
-  margin-top: 20%;
-  margin-bottom: 20%;
+  margin-top: 20% !important;
+  margin-bottom: 20% !important;
 
-  border: 6px solid black;
+  border: 6px solid black !important;
 }
 header.hero .row {
   position: relative;
